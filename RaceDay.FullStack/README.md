@@ -6,7 +6,10 @@ This project is the complete full-stack RaceDay platform, developed for the PROG
 Because this is a full-stack application, the code is split into two separate repositories. 
 - **API Repository:** [https://github.com/Pabii08/RaceDay.API](API-GITHUB-LINK)
 - **MVC Repository:** [https://github.com/Pabii08/RaceDay.MVC](MVC-GITHUB-LINK)
+## YouTube Demonstration
+Watch the full video demonstration of the FullStack application, including the MVC structure, Docker setup, and API integration here:
 
+**[https://youtu.be/j70O_NS2X2w?si=mJS_dKBH3KBCL6B3]**
 ---
 
 ## Technologies Used
